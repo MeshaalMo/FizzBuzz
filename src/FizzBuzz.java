@@ -2,13 +2,9 @@
  * Solve the FizzBuzz challenge.
  */
 class FizzBuzz {
-
+    //Comment
     public static void main(String[] args) {
         int i = 1;
-        fizzBuzz(i);
-    }
-
-    private static void fizzBuzz(int i) {
         while(i < 100) {
 
             // Find out which numbers divide i.
